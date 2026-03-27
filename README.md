@@ -6,7 +6,7 @@ This **Spelling Checker** application is built using **Tkinter** for the graphic
 
 - 🎨 **User-friendly GUI**: Created using Tkinter for an easy-to-use interface.
 - 🔍 **Spelling Correction**: Automatically corrects the spelling of words and phrases.
-- 💡 **Real-time Feedback**: Displays the corrected text immediately after the user inputs the word.
+- 💡 **Real-time Feedback**: Displays the corrected text immediately after the user inputs in the word.
 
 ## ⚙️ Requirements
 
